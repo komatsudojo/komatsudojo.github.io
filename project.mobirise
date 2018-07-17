@@ -46,7 +46,11 @@
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": "",
     "sitemapSwitcher": "on",
-    "siteFonts": []
+    "siteFonts": [],
+    "publishType": "local",
+    "gitHubName": "komatsudojo",
+    "gitHubPath": "",
+    "publishPath": "file:///Users/vitorgserafim/Documents/Mobirise/KomatsuDojo"
   },
   "pages": {
     "eventos.html": {
